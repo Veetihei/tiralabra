@@ -1,7 +1,7 @@
 Tämä projekti kirjoitetaa pythonilla. Muita ohjelmointikieliä en osaa.
 
-Tässä projektissa toteutetaan 2 polunetsintä algoritmia, jotka löytää 
-lyhimmän reitin labyrintistä ulos, ja verrataan näiden tehokkuutta. 
+Tässä projektissa toteutetaan 2 reitinetsintä algoritmia, jotka löytää 
+lyhimmän reitin pikselikartalla kahden annetun pisteen välillä, ja verrataan näiden tehokkuutta. 
 Algoritmeiksi valitaan Dijkstra ja todennäköisesti JPS.
 
 Opinto-ohjelma: Tietojenkäsittelytieteen kandidaatti (TKT)
