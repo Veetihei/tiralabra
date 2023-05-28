@@ -9,3 +9,5 @@ Tämä on Helsingin Yliopiston tiralabra kurssille tehty palautuskansio. Projekt
 ## Viikkoraportit
 
 [viikkoraportti 1](./viikkoraportti1.md)
+
+[viikkoraportti 2](./viikkoraportti2.md)
